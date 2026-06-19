@@ -1,4 +1,4 @@
-let api_Key="AIzaSyByXsj3p9lXo_OXib94Q2CJBbcfxlZg0rY"
+let api_Key="AIzaSyCL5WM0QWOSy62aZns4iMdrUSFrS50yS0Y"
 
 import {
     GoogleGenerativeAI,
